@@ -1,0 +1,2 @@
+# verificaEconvalida
+pubblicazione componenti
